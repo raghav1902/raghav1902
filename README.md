@@ -1,96 +1,113 @@
 
 <div align="center">
 
-# Raghav Kakrania
+# Hey, I'm Raghav Kakrania 👋
 
-### Full Stack Developer | MERN Stack | AI-Powered Web Applications
+### Full Stack Developer | Web Development & AI
 
-I build practical web applications, intuitive user interfaces,
-and AI-powered solutions that solve real problems.
+I like building things for the web, exploring new technologies, and figuring out how to turn an idea into something people can actually use.
 
-[Portfolio](https://portfolio-raghav1902s-projects.vercel.app/) ·
-[LinkedIn](https://www.linkedin.com/in/raghav-kakrania-087253210/) ·
-[GitHub](https://github.com/raghav1902)
+[Portfolio](https://portfolio-raghav1902s-projects.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/raghav-kakrania-087253210/) · [GitHub](https://github.com/raghav1902)
 
 </div>
 
 ---
 
-## About Me
+## A Little About Me
 
-- 🎓 B.Tech student at Poornima University, Jaipur
-- 💻 Focused on full-stack web development
-- 🤖 Exploring AI integrations and intelligent applications
-- 🧩 Interested in building useful, user-friendly digital products
-- 🤝 Open to suitable freelance projects and collaborations
+I'm a B.Tech student at Poornima University, Jaipur, interested in full-stack development and practical applications of AI.
+
+Most of my learning happens while working on projects. I enjoy trying out new ideas, solving bugs, improving the user interface, and understanding how the frontend and backend fit together.
+
+Right now, I'm focused on getting better at building complete web applications and making my projects more useful and reliable.
+
+- 💻 Working with React, JavaScript, Node.js and Python
+- 🤖 Exploring AI-powered applications and integrations
+- 🛠️ Learning by building, testing and improving projects
+- 🤝 Open to freelance work, collaborations and interesting projects
 
 ## Tech Stack
 
-**Languages:** JavaScript, Python, SQL, Java
+**Languages**
 
-**Frontend:** React.js, HTML5, CSS3
+JavaScript · Python · Java · SQL
 
-**Backend:** Node.js, Express.js, Flask
+**Frontend**
 
-**Databases:** MongoDB, MySQL
+React.js · HTML5 · CSS3
 
-**Tools:** Git, GitHub, VS Code
+**Backend**
 
-> Add only the technologies you have actually used and can explain.
+Node.js · Express.js · Flask
 
-## Featured Projects
+**Databases**
 
-### 01. Investor Intelligence CRM
+MongoDB · MySQL
 
-AI-assisted CRM for parsing, deduplicating, and classifying
-investor contacts from PDFs and Excel spreadsheets.
+**Tools**
 
-**Focus:** AI integration · Data processing · TypeScript
+Git · GitHub · VS Code
 
-[View Repository](https://github.com/raghav1902/investor-intelligence-crm)
+## Projects I've Worked On
 
-### 02. Currency Converter Pro
+### 🌊 DhaaraAI
 
-A currency conversion web application with travel expense
-tracking and QR-based code syncing.
+An AI-focused project that I'm building and exploring as part of my work with practical AI applications.
 
-**Focus:** React development · JavaScript · User experience
+- [Live Demo](https://dhaara-ai-ebon.vercel.app/)
+- [Source Code](https://github.com/raghav1902/DhaaraAI)
 
-[View Repository](https://github.com/raghav1902/currency-converter-pro)
+### 🧠 Investor Intelligence CRM
 
-### 03. EMI Ledger Calculator
+A CRM project designed to process investor contact information from PDFs and Excel files, with AI-assisted parsing, deduplication and classification.
 
-An EMI and loan calculator designed to make financial
-calculations easier to understand.
+- [View Repository](https://github.com/raghav1902/investor-intelligence-crm)
 
-**Focus:** Financial calculations · Frontend development
+### 💱 Currency Converter Pro
 
-[View Repository](https://github.com/raghav1902/emi-ledger-calculator)
+A web application for currency conversion, with additional features for travel expense tracking and QR-based code syncing.
 
-### 04. Urban Park
+- [View Repository](https://github.com/raghav1902/currency-converter-pro)
 
-A parking discovery project focused on helping users find
-parking more conveniently.
+### 🅿️ Urban Park
 
-**Focus:** JavaScript · Web application development
+A parking-related web project focused on helping users discover parking more conveniently.
 
-[View Repository](https://github.com/raghav1902/Urban-park)
+- [View Repository](https://github.com/raghav1902/Urban-park)
+
+### 🧮 EMI Ledger Calculator
+
+A simple financial utility project built around EMI and loan calculations.
+
+- [View Repository](https://github.com/raghav1902/emi-ledger-calculator)
+
+## What I'd Like to Work On
+
+I'm interested in projects involving:
+
+- Responsive websites and web applications
+- React-based frontend development
+- Backend APIs and database integration
+- AI features inside useful web products
+- Small business websites and practical digital tools
+
+I'm open to freelance opportunities where I can contribute, learn from the work, and build something worthwhile.
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=raghav1902&show_icons=true&theme=github_dark&hide_border=true" alt="Raghav's GitHub stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav1902&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
+
+</div>
 
 ---
 
-## What I Can Help Build
+## Get in Touch
 
-- Responsive websites and web applications
-- React-based user interfaces
-- REST API integrations
-- Full-stack applications with databases
-- AI features integrated into web applications
-
-*Project scope depends on the requirements and technologies involved.*
-
-## Let's Connect
-
-Have a project idea or want to collaborate?
+Have an idea for a project or want to collaborate? Feel free to reach out.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/raghav-kakrania-087253210/)
 - 🌐 [Portfolio](https://portfolio-raghav1902s-projects.vercel.app/)
@@ -98,6 +115,6 @@ Have a project idea or want to collaborate?
 
 <div align="center">
 
-**Building. Learning. Improving.**
+*Always learning, always building.*
 
 </div>
