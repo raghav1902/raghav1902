@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-raghav1902s-projects.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-6366F1?style=for-the-badge&logo=vercel&logoColor=white)]([https://portfolio-raghav1902s-projects.vercel.app/](https://portfolio-peach-kappa-vm3nfhr4x3.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghav-kakrania-087253210/)
 [![GitHub](https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghav1902)
 ![Views](https://komarev.com/ghpvc/?username=raghav1902&label=VIEWS&color=06b6d4&style=for-the-badge)
