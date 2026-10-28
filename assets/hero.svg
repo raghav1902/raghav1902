@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Raghav Kakrania, Full Stack Developer">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#818cf8"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+<filter id="b" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="70"/></filter>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+<clipPath id="c"><rect width="1200" height="380" rx="24"/></clipPath></defs>
+<style>
+text{font-family:'Segoe UI', -apple-system, Helvetica, Arial, sans-serif}
+.role{font-family:ui-monospace, SFMono-Regular, Consolas, monospace;font-size:28px;fill:#22d3ee;opacity:0;animation:cyc 12s infinite both}
+@keyframes cyc{0%{opacity:0}4%,22%{opacity:1}27%,100%{opacity:0}}
+.pulse{animation:p 2s ease-in-out infinite}
+@keyframes p{0%,100%{opacity:1}50%{opacity:.25}}
+.float{animation:f 7s ease-in-out infinite}
+@keyframes f{0%,100%{transform:translateY(0)}50%{transform:translateY(-12px)}}
+</style>
+<g clip-path="url(#c)">
+<rect width="1200" height="380" fill="#080a11"/>
+<rect width="1200" height="380" fill="url(#grid)"/>
+<circle cx="1020" cy="40" r="170" fill="#6366f1" opacity=".42" filter="url(#b)"/>
+<circle cx="1150" cy="340" r="150" fill="#22d3ee" opacity=".25" filter="url(#b)"/>
+<circle cx="120" cy="420" r="140" fill="#818cf8" opacity=".16" filter="url(#b)"/>
+<g class="float"><rect x="860" y="96" width="270" height="182" rx="16" fill="#0d1220" fill-opacity=".85" stroke="#262f48"/>
+<circle cx="884" cy="120" r="5" fill="#f87171"/><circle cx="902" cy="120" r="5" fill="#fbbf24"/><circle cx="920" cy="120" r="5" fill="#34d399"/>
+<text x="884" y="164" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#818cf8">const <tspan fill="#e6e9f2">dev</tspan> = {</text>
+<text x="904" y="190" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#aab3c8">stack: <tspan fill="#22d3ee">"MERN"</tspan>,</text>
+<text x="904" y="214" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#aab3c8">ai: <tspan fill="#34d399">true</tspan>,</text>
+<text x="904" y="238" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#aab3c8">ship: <tspan fill="#22d3ee">"always"</tspan></text>
+<text x="884" y="256" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#818cf8">};</text></g>
+<text x="64" y="104" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" letter-spacing="4" fill="#818cf8">HELLO, WORLD  ·  JAIPUR, INDIA</text>
+<text x="64" y="192" font-size="84" font-weight="800" letter-spacing="-3" fill="#ffffff">Raghav <tspan fill="url(#g)">Kakrania</tspan></text>
+<text class="role" style="animation-delay:0s" x="64" y="262">Full Stack Developer</text><text class="role" style="animation-delay:3s" x="64" y="262">MERN Stack Engineer</text><text class="role" style="animation-delay:6s" x="64" y="262">AI-powered web apps</text><text class="role" style="animation-delay:9s" x="64" y="262">Open to freelance projects</text>
+<rect x="64" y="298" width="344" height="42" rx="21" fill="#0d1220" stroke="#262f48"/>
+<circle class="pulse" cx="90" cy="319" r="5" fill="#34d399"/>
+<text x="106" y="324" font-size="15" fill="#aab3c8">Open to freelance &amp; collaborations</text>
+</g>
+<rect x=".5" y=".5" width="1199" height="379" rx="24" fill="none" stroke="#1c2233"/>
+</svg>
