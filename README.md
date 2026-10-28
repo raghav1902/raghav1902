@@ -1,11 +1,6 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:6366f1,100:06b6d4&text=Raghav%20Kakrania&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Web%20%26%20AI&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
-
-<a href="https://github.com/raghav1902/raghav1902">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=640&lines=Building+complete+web+apps+end+to+end;React+%7C+Node.js+%7C+Python+%7C+MongoDB;Adding+AI+to+products+people+actually+use;Open+to+freelance+%26+collaborations" alt="Typing SVG" />
-</a>
 
 <br/>
 
