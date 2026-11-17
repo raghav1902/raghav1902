@@ -18,7 +18,7 @@
 
 Hi! I'm **Raghav Kakrania**, a **Full-Stack & AI Systems Developer** and B.Tech CSE (AI & Data Science) student at Poornima University, Jaipur.
 
-I build high-performance web products with **Next.js 14, React.js, Node.js, and FastAPI**, integrated with production-ready **AI Agents, RAG search engines, and Google Cloud infrastructure**. With **2 industry internships** and **9+ verified digital credentials** from **Google Cloud, Cisco, and MongoDB**, I bridge scalable web architectures with intelligent AI features.
+I architect high-performance web products with **Next.js 14, React.js, Node.js, and FastAPI**, integrated with production-ready **AI Agents, RAG search engines, and Google Cloud infrastructure**. With **2 industry internships** and **9+ verified digital credentials** from **Google Cloud, Cisco, and MongoDB**, I bridge scalable web architectures with intelligent AI capabilities.
 
 <br/>
 
@@ -53,6 +53,18 @@ I build high-performance web products with **Next.js 14, React.js, Node.js, and 
 *Poornima University, Jaipur | 2024 – Present*
 - Conducted hands-on technical workshops on **MySQL, Relational Database Design, and Schema Normalization** for junior engineering peers.
 - Mentored 50+ students in writing optimized SQL queries, understanding indexing strategies, and architecting database layers for web applications.
+
+<br/>
+
+---
+
+## 🧠 System Architecture Blueprint
+
+*How I architect modern full-stack web products, low-latency microservices, and RAG vector search pipelines:*
+
+<div align="center">
+  <img src="assets/architecture.svg" alt="Distributed System Architecture Blueprint" width="100%" />
+</div>
 
 <br/>
 
@@ -149,6 +161,32 @@ I build high-performance web products with **Next.js 14, React.js, Node.js, and 
 
 <br/>
 
+### 🔬 Engineering Deep-Dives
+
+<details>
+<summary><b>🔍 Deep Dive: InvestorIQ CRM Studio — Gemini OCR &amp; Deduplication Engine</b></summary>
+<br/>
+
+- **The Challenge**: Venture firms and funds receive pitch decks in unstructured PDFs, scans, and multi-sheet Excel rosters, leading to thousands of duplicate investor contacts and wasted outreach.
+- **The Solution**: 
+  1. Built an ingestion worker utilizing **Google Gemini Vision OCR** to parse tabular data and text blocks into structured JSON schemas.
+  2. Designed a multi-stage **hash-bucket matching engine** combining normalized domain hashing, phonex-fuzzy name matching, and institutional email heuristics to detect and merge duplicate entities.
+  3. Deployed on **Next.js 14 App Router** with MongoDB compound indices, achieving sub-second contact deduplication over batches of 500+ records.
+</details>
+
+<details>
+<summary><b>🔍 Deep Dive: DhaaraAI — Zero-Hallucination LegalTech RAG Architecture</b></summary>
+<br/>
+
+- **The Challenge**: LLMs hallucinate case law citations and penal sections, creating fatal errors in legal advisory.
+- **The Solution**:
+  1. Processed and chunked **15,800+ Supreme Court judgments** and statutory codes (BNS, BNSS, BSA, IPC) with semantic boundaries.
+  2. Indexed embeddings via **Sentence Transformers** into a local **ChromaDB vector store** with metadata filtering for judge benches and statutory section mapping.
+  3. Grounded response generation using **Groq-accelerated LLMs** with strict source citation verification, ensuring zero ungrounded precedent generation.
+</details>
+
+<br/>
+
 ---
 
 ## 🛠️ Technical Skills & Architecture Stack
@@ -170,6 +208,18 @@ I build high-performance web products with **Next.js 14, React.js, Node.js, and 
 | **Cloud &amp; DevOps** | `Google Cloud Platform` · `Terraform (IaC)` · `Compute Engine` · `GKE / Kubernetes` · `Git & GitHub` · `Vercel` · `Render` |
 
 </div>
+
+<br/>
+
+---
+
+## 🛰️ Engineering Tech Radar
+
+| Ring | Focus Area | Technologies &amp; Frameworks |
+| :---: | :--- | :--- |
+| 🟢 **ADOPT** | Production-Ready Daily Core | `Next.js 14`, `React.js`, `FastAPI`, `ChromaDB`, `MongoDB Atlas`, `Node.js`, `Tailwind CSS`, `RESTful APIs` |
+| 🟡 **TRIAL** | Active R&amp;D &amp; Scaled Systems | `Gemini Multi-Agent ADK`, `Gemini Vision OCR`, `Terraform (IaC)`, `Compute Engine`, `Sentence Transformers`, `Groq LLMs` |
+| 🔵 **ASSESS** | Architectural Horizon | `LangGraph Multi-Agent Workflows`, `Vector Quantization`, `Docker & GKE Containers`, `vLLM Serving` |
 
 <br/>
 
@@ -207,15 +257,50 @@ Industry certifications accredited by **Google Cloud**, **Cisco**, and **MongoDB
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## 📊 Live GitHub Analytics & Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=raghav1902&show_icons=true&hide_rank=true&hide=prs,issues&border_color=1f2638&border_radius=16&bg_color=0c101a&title_color=818cf8&icon_color=22d3ee&text_color=aab3c8" alt="Raghav Kakrania GitHub Stats" />
+<!-- Real-time dynamic stats cards (auto-refreshes every 30 mins via cache_seconds) -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=raghav1902&show_icons=true&hide_rank=true&hide=prs,issues&border_color=1f2638&border_radius=16&bg_color=0c101a&title_color=818cf8&icon_color=22d3ee&text_color=aab3c8&cache_seconds=1800" alt="Raghav Kakrania GitHub Stats" />
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav1902&layout=compact&border_color=1f2638&border_radius=16&bg_color=0c101a&title_color=818cf8&text_color=aab3c8" alt="Raghav Kakrania Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav1902&layout=compact&border_color=1f2638&border_radius=16&bg_color=0c101a&title_color=818cf8&text_color=aab3c8&cache_seconds=1800" alt="Raghav Kakrania Top Languages" />
+
+<br/><br/>
+
+<!-- Interactive Automated Contribution Snake Game -->
+<img src="assets/snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
 
 </div>
+
+<br/>
+
+---
+
+## 💻 Interactive Terminal Card
+
+Try running my CLI card directly inside your terminal:
+
+```bash
+npx raghav1902
+```
+
+```text
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│   Raghav Kakrania                                                            │
+│   Full-Stack & AI Systems Developer · Jaipur, Rajasthan, India               │
+│                                                                              │
+│   Portfolio : https://portfolio-raghav1902s-projects.vercel.app/             │
+│   LinkedIn  : https://www.linkedin.com/in/raghav-kakrania-087253210/         │
+│   GitHub    : https://github.com/raghav1902                                  │
+│   Credly    : https://www.credly.com/users/raghav-kakrania (9x Badges)       │
+│                                                                              │
+│   Core Stack: Next.js 14 · FastAPI · ChromaDB RAG · Google Cloud AI          │
+│   Status    : Available for Full-Stack & AI Systems Engineering              │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+```
 
 <br/>
 
