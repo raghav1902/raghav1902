@@ -20,88 +20,88 @@
     <circle cx="80" cy="322" r="120" fill="#06b6d4" opacity="0.06"/>
     <g>
   <text x="32" y="50" class="mono" font-size="11.5" font-weight="700" letter-spacing="2" fill="#38bdf8">LANGUAGES</text>
-  <rect x="205" y="30" width="142.4" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
-<text x="276.2" y="49.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">JavaScript (ES6+)</text>
-<rect x="355.4" y="30" width="92.0" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
-<text x="401.4" y="49.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">TypeScript</text>
-<rect x="455.4" y="30" width="77.6" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
-<text x="494.2" y="49.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Python 3</text>
-<rect x="541.0" y="30" width="41.6" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
-<text x="561.8" y="49.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">SQL</text>
-<rect x="590.6" y="30" width="27.2" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
-<text x="604.2" y="49.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">C</text>
-<rect x="625.8000000000001" y="30" width="106.4" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
-<text x="679.0000000000001" y="49.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">HTML5 / CSS3</text>
+  <rect x="210" y="30" width="142.4" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
+<text x="281.2" y="49.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">JavaScript (ES6+)</text>
+<rect x="360.4" y="30" width="92.0" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
+<text x="406.4" y="49.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">TypeScript</text>
+<rect x="460.4" y="30" width="77.6" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
+<text x="499.2" y="49.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Python 3</text>
+<rect x="546.0" y="30" width="41.6" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
+<text x="566.8" y="49.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">SQL</text>
+<rect x="595.6" y="30" width="27.2" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
+<text x="609.2" y="49.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">C</text>
+<rect x="630.8000000000001" y="30" width="106.4" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
+<text x="684.0000000000001" y="49.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">HTML5 / CSS3</text>
 
   <line x1="32" y1="70" x2="1018" y2="70" stroke="#141c2e" stroke-width="1"/>
 </g>
 <g>
   <text x="32" y="108" class="mono" font-size="11.5" font-weight="700" letter-spacing="2" fill="#818cf8">FRONTEND</text>
-  <rect x="205" y="88" width="92.0" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
-<text x="251.0" y="107.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Next.js 14</text>
-<rect x="305.0" y="88" width="77.6" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
-<text x="343.8" y="107.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">React.js</text>
-<rect x="390.6" y="88" width="106.4" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
-<text x="443.8" y="107.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Tailwind CSS</text>
-<rect x="505.0" y="88" width="135.2" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
-<text x="572.6" y="107.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">State Management</text>
-<rect x="648.2" y="88" width="113.60000000000001" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
-<text x="705.0" y="107.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Responsive UI</text>
+  <rect x="210" y="88" width="92.0" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
+<text x="256.0" y="107.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Next.js 14</text>
+<rect x="310.0" y="88" width="77.6" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
+<text x="348.8" y="107.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">React.js</text>
+<rect x="395.6" y="88" width="106.4" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
+<text x="448.8" y="107.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Tailwind CSS</text>
+<rect x="510.0" y="88" width="135.2" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
+<text x="577.6" y="107.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">State Management</text>
+<rect x="653.2" y="88" width="113.60000000000001" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
+<text x="710.0" y="107.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Responsive UI</text>
 
   <line x1="32" y1="128" x2="1018" y2="128" stroke="#141c2e" stroke-width="1"/>
 </g>
 <g>
-  <text x="32" y="166" class="mono" font-size="11.5" font-weight="700" letter-spacing="2" fill="#34d399">BACKEND & DB</text>
-  <rect x="205" y="146" width="70.4" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
-<text x="240.2" y="165.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Node.js</text>
-<rect x="283.4" y="146" width="92.0" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
-<text x="329.4" y="165.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Express.js</text>
-<rect x="383.4" y="146" width="70.4" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
-<text x="418.59999999999997" y="165.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">FastAPI</text>
-<rect x="461.79999999999995" y="146" width="113.60000000000001" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
-<text x="518.5999999999999" y="165.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">MongoDB Atlas</text>
-<rect x="583.4" y="146" width="56.0" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
-<text x="611.4" y="165.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">MySQL</text>
-<rect x="647.4" y="146" width="77.6" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
-<text x="686.1999999999999" y="165.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">ChromaDB</text>
-<rect x="733.0" y="146" width="84.8" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
-<text x="775.4" y="165.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">REST APIs</text>
+  <text x="32" y="166" class="mono" font-size="11.5" font-weight="700" letter-spacing="2" fill="#34d399">BACKEND &amp; DB</text>
+  <rect x="210" y="146" width="70.4" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
+<text x="245.2" y="165.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Node.js</text>
+<rect x="288.4" y="146" width="92.0" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
+<text x="334.4" y="165.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Express.js</text>
+<rect x="388.4" y="146" width="70.4" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
+<text x="423.59999999999997" y="165.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">FastAPI</text>
+<rect x="466.79999999999995" y="146" width="113.60000000000001" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
+<text x="523.5999999999999" y="165.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">MongoDB Atlas</text>
+<rect x="588.4" y="146" width="56.0" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
+<text x="616.4" y="165.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">MySQL</text>
+<rect x="652.4" y="146" width="77.6" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
+<text x="691.1999999999999" y="165.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">ChromaDB</text>
+<rect x="738.0" y="146" width="84.8" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
+<text x="780.4" y="165.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">REST APIs</text>
 
   <line x1="32" y1="186" x2="1018" y2="186" stroke="#141c2e" stroke-width="1"/>
 </g>
 <g>
-  <text x="32" y="224" class="mono" font-size="11.5" font-weight="700" letter-spacing="2" fill="#f59e0b">AI & RAG</text>
-  <rect x="205" y="204" width="135.2" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
-<text x="272.6" y="223.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">RAG Architecture</text>
-<rect x="348.2" y="204" width="149.6" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
-<text x="423.0" y="223.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Gemini Multi-Agent</text>
-<rect x="505.79999999999995" y="204" width="92.0" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
-<text x="551.8" y="223.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Gemini ADK</text>
-<rect x="605.8" y="204" width="142.4" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
-<text x="677.0" y="223.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Gemini Vision OCR</text>
-<rect x="756.1999999999999" y="204" width="77.6" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
-<text x="794.9999999999999" y="223.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Groq LLM</text>
-<rect x="841.8" y="204" width="106.4" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
-<text x="895.0" y="223.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Transformers</text>
+  <text x="32" y="224" class="mono" font-size="11.5" font-weight="700" letter-spacing="2" fill="#f59e0b">AI &amp; RAG</text>
+  <rect x="210" y="204" width="135.2" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
+<text x="277.6" y="223.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">RAG Architecture</text>
+<rect x="353.2" y="204" width="149.6" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
+<text x="428.0" y="223.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Gemini Multi-Agent</text>
+<rect x="510.79999999999995" y="204" width="92.0" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
+<text x="556.8" y="223.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Gemini ADK</text>
+<rect x="610.8" y="204" width="142.4" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
+<text x="682.0" y="223.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Gemini Vision OCR</text>
+<rect x="761.1999999999999" y="204" width="77.6" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
+<text x="799.9999999999999" y="223.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Groq LLM</text>
+<rect x="846.8" y="204" width="106.4" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
+<text x="900.0" y="223.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Transformers</text>
 
   <line x1="32" y1="244" x2="1018" y2="244" stroke="#141c2e" stroke-width="1"/>
 </g>
 <g>
-  <text x="32" y="282" class="mono" font-size="11.5" font-weight="700" letter-spacing="2" fill="#a78bfa">CLOUD & TOOLS</text>
-  <rect x="205" y="262" width="149.6" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
-<text x="279.8" y="281.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Google Cloud (GCP)</text>
-<rect x="362.6" y="262" width="128.0" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
-<text x="426.6" y="281.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Terraform (IaC)</text>
-<rect x="498.6" y="262" width="120.8" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
-<text x="559.0" y="281.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Compute Engine</text>
-<rect x="627.4000000000001" y="262" width="41.6" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
-<text x="648.2" y="281.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">GKE</text>
-<rect x="677.0000000000001" y="262" width="106.4" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
-<text x="730.2000000000002" y="281.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Git / GitHub</text>
-<rect x="791.4000000000001" y="262" width="63.2" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
-<text x="823.0000000000001" y="281.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Vercel</text>
-<rect x="862.6000000000001" y="262" width="63.2" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
-<text x="894.2000000000002" y="281.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Render</text>
+  <text x="32" y="282" class="mono" font-size="11.5" font-weight="700" letter-spacing="2" fill="#a78bfa">CLOUD &amp; TOOLS</text>
+  <rect x="210" y="262" width="149.6" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
+<text x="284.8" y="281.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Google Cloud (GCP)</text>
+<rect x="367.6" y="262" width="128.0" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
+<text x="431.6" y="281.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Terraform (IaC)</text>
+<rect x="503.6" y="262" width="120.8" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
+<text x="564.0" y="281.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Compute Engine</text>
+<rect x="632.4000000000001" y="262" width="41.6" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
+<text x="653.2" y="281.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">GKE</text>
+<rect x="682.0000000000001" y="262" width="106.4" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
+<text x="735.2000000000002" y="281.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Git / GitHub</text>
+<rect x="796.4000000000001" y="262" width="63.2" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
+<text x="828.0000000000001" y="281.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Vercel</text>
+<rect x="867.6000000000001" y="262" width="63.2" height="30" rx="9" fill="#101726" stroke="#1e293b" stroke-width="1.1"/>
+<text x="899.2000000000002" y="281.5" text-anchor="middle" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Render</text>
 
   
 </g>
