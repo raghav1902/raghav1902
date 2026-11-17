@@ -1,36 +1,170 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Raghav Kakrania, Full Stack Developer">
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#818cf8"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
-<filter id="b" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="70"/></filter>
-<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
-<clipPath id="c"><rect width="1200" height="380" rx="24"/></clipPath></defs>
-<style>
-text{font-family:'Segoe UI', -apple-system, Helvetica, Arial, sans-serif}
-.role{font-family:ui-monospace, SFMono-Regular, Consolas, monospace;font-size:28px;fill:#22d3ee;opacity:0;animation:cyc 12s infinite both}
-@keyframes cyc{0%{opacity:0}4%,22%{opacity:1}27%,100%{opacity:0}}
-.pulse{animation:p 2s ease-in-out infinite}
-@keyframes p{0%,100%{opacity:1}50%{opacity:.25}}
-.float{animation:f 7s ease-in-out infinite}
-@keyframes f{0%,100%{transform:translateY(0)}50%{transform:translateY(-12px)}}
-</style>
-<g clip-path="url(#c)">
-<rect width="1200" height="380" fill="#080a11"/>
-<rect width="1200" height="380" fill="url(#grid)"/>
-<circle cx="1020" cy="40" r="170" fill="#6366f1" opacity=".42" filter="url(#b)"/>
-<circle cx="1150" cy="340" r="150" fill="#22d3ee" opacity=".25" filter="url(#b)"/>
-<circle cx="120" cy="420" r="140" fill="#818cf8" opacity=".16" filter="url(#b)"/>
-<g class="float"><rect x="860" y="96" width="270" height="182" rx="16" fill="#0d1220" fill-opacity=".85" stroke="#262f48"/>
-<circle cx="884" cy="120" r="5" fill="#f87171"/><circle cx="902" cy="120" r="5" fill="#fbbf24"/><circle cx="920" cy="120" r="5" fill="#34d399"/>
-<text x="884" y="164" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#818cf8">const <tspan fill="#e6e9f2">dev</tspan> = {</text>
-<text x="904" y="190" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#aab3c8">stack: <tspan fill="#22d3ee">"MERN"</tspan>,</text>
-<text x="904" y="214" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#aab3c8">ai: <tspan fill="#34d399">true</tspan>,</text>
-<text x="904" y="238" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#aab3c8">ship: <tspan fill="#22d3ee">"always"</tspan></text>
-<text x="884" y="256" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#818cf8">};</text></g>
-<text x="64" y="104" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" letter-spacing="4" fill="#818cf8">HELLO, WORLD  ·  JAIPUR, INDIA</text>
-<text x="64" y="192" font-size="84" font-weight="800" letter-spacing="-3" fill="#ffffff">Raghav <tspan fill="url(#g)">Kakrania</tspan></text>
-<text class="role" style="animation-delay:0s" x="64" y="262">Full Stack Developer</text><text class="role" style="animation-delay:3s" x="64" y="262">MERN Stack Engineer</text><text class="role" style="animation-delay:6s" x="64" y="262">AI-powered web apps</text><text class="role" style="animation-delay:9s" x="64" y="262">Open to freelance projects</text>
-<rect x="64" y="298" width="344" height="42" rx="21" fill="#0d1220" stroke="#262f48"/>
-<circle class="pulse" cx="90" cy="319" r="5" fill="#34d399"/>
-<text x="106" y="324" font-size="15" fill="#aab3c8">Open to freelance &amp; collaborations</text>
-</g>
-<rect x=".5" y=".5" width="1199" height="379" rx="24" fill="none" stroke="#1c2233"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Raghav Kakrania - Full-Stack &amp; AI Systems Developer">
+  <defs>
+    <!-- Background & Glowing Gradients -->
+    <linearGradient id="bg-base" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070a13"/>
+      <stop offset="50%" stop-color="#0a0f1d"/>
+      <stop offset="100%" stop-color="#05070c"/>
+    </linearGradient>
+    <linearGradient id="primary-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#818cf8"/>
+      <stop offset="50%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#34d399"/>
+    </linearGradient>
+    <linearGradient id="card-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#818cf8" stop-opacity="0.4"/>
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#1e293b" stop-opacity="0.6"/>
+    </linearGradient>
+    <linearGradient id="term-header" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#141b2d"/>
+      <stop offset="100%" stop-color="#0d1322"/>
+    </linearGradient>
+    <filter id="glow-blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="75"/>
+    </filter>
+    <pattern id="grid-dots" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#38bdf8" fill-opacity="0.08"/>
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#6366f1" stroke-width="0.5" stroke-opacity="0.035"/>
+    </pattern>
+    <clipPath id="hero-clip">
+      <rect width="1200" height="420" rx="24"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    @keyframes pulse-dot { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.3; transform: scale(0.85); } }
+    @keyframes float-box { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-8px); } }
+    .pulsing-dot { animation: pulse-dot 2s ease-in-out infinite; transform-origin: 94px 58px; }
+    .floating-term { animation: float-box 6s ease-in-out infinite; }
+    .mono { font-family: 'JetBrains Mono', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace; }
+    .sans { font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+  </style>
+
+  <g clip-path="url(#hero-clip)">
+    <!-- Base Background -->
+    <rect width="1200" height="420" fill="url(#bg-base)"/>
+    <rect width="1200" height="420" fill="url(#grid-dots)"/>
+
+    <!-- Ambient Glowing Orbs -->
+    <circle cx="1060" cy="80" r="190" fill="#6366f1" opacity="0.32" filter="url(#glow-blur)"/>
+    <circle cx="1180" cy="360" r="170" fill="#06b6d4" opacity="0.22" filter="url(#glow-blur)"/>
+    <circle cx="120" cy="400" r="160" fill="#818cf8" opacity="0.18" filter="url(#glow-blur)"/>
+    <circle cx="580" cy="40" r="140" fill="#10b981" opacity="0.12" filter="url(#glow-blur)"/>
+
+    <!-- Top Status Pill -->
+    <g transform="translate(64, 40)">
+      <rect x="0" y="0" width="370" height="36" rx="18" fill="#0d1424" fill-opacity="0.85" stroke="#1f2c4a" stroke-width="1.2"/>
+      <circle cx="20" cy="18" r="5" fill="#10b981" class="pulsing-dot"/>
+      <text x="36" y="23" class="mono" font-size="12.5" font-weight="600" fill="#38bdf8" letter-spacing="1">AVAILABLE FOR OPPORTUNITIES</text>
+      <text x="312" y="23" class="sans" font-size="12" fill="#64748b">|</text>
+      <text x="325" y="23" class="sans" font-size="12" font-weight="600" fill="#94a3b8">2026</text>
+    </g>
+
+    <!-- Main Title & Identity -->
+    <text x="64" y="142" class="sans" font-size="54" font-weight="800" letter-spacing="-1.5" fill="#ffffff">
+      Raghav <tspan fill="url(#primary-grad)">Kakrania</tspan>
+    </text>
+
+    <!-- Subtitle / Title Role -->
+    <text x="64" y="180" class="mono" font-size="20" font-weight="600" fill="#38bdf8" letter-spacing="0.5">
+      Full-Stack &amp; AI Systems Developer
+    </text>
+
+    <!-- Bio Statement -->
+    <text x="64" y="216" class="sans" font-size="15" fill="#cbd5e1" font-weight="400">
+      B.Tech CSE (AI &amp; DS) at Poornima University, Jaipur. Building scalable web products
+    </text>
+    <text x="64" y="238" class="sans" font-size="15" fill="#94a3b8" font-weight="400">
+      with <tspan fill="#e2e8f0" font-weight="600">Next.js 14, React, FastAPI</tspan> &amp; production-grade <tspan fill="#34d399" font-weight="600">RAG AI search engines</tspan>.
+    </text>
+
+    <!-- Stats Badges Bar -->
+    <g transform="translate(64, 275)">
+      <!-- Badge 1 -->
+      <g transform="translate(0, 0)">
+        <rect width="138" height="58" rx="12" fill="#0d1527" fill-opacity="0.8" stroke="#1e293b" stroke-width="1.2"/>
+        <text x="16" y="26" class="sans" font-size="18" font-weight="700" fill="#38bdf8">9+ Badges</text>
+        <text x="16" y="44" class="sans" font-size="11.5" fill="#64748b">Credly Verified</text>
+      </g>
+      <!-- Badge 2 -->
+      <g transform="translate(148, 0)">
+        <rect width="138" height="58" rx="12" fill="#0d1527" fill-opacity="0.8" stroke="#1e293b" stroke-width="1.2"/>
+        <text x="16" y="26" class="sans" font-size="18" font-weight="700" fill="#a78bfa">2+ Internships</text>
+        <text x="16" y="44" class="sans" font-size="11.5" fill="#64748b">Optisoft &amp; Technit</text>
+      </g>
+      <!-- Badge 3 -->
+      <g transform="translate(296, 0)">
+        <rect width="148" height="58" rx="12" fill="#0d1527" fill-opacity="0.8" stroke="#1e293b" stroke-width="1.2"/>
+        <text x="16" y="26" class="sans" font-size="18" font-weight="700" fill="#34d399">15.8k+ Indexed</text>
+        <text x="16" y="44" class="sans" font-size="11.5" fill="#64748b">Legal Judgments</text>
+      </g>
+      <!-- Badge 4 -->
+      <g transform="translate(454, 0)">
+        <rect width="132" height="58" rx="12" fill="#0d1527" fill-opacity="0.8" stroke="#1e293b" stroke-width="1.2"/>
+        <text x="16" y="26" class="sans" font-size="18" font-weight="700" fill="#f59e0b">Jaipur, IN</text>
+        <text x="16" y="44" class="sans" font-size="11.5" fill="#64748b">Rajasthan, India</text>
+      </g>
+    </g>
+
+    <!-- Location & Education Footer line inside hero -->
+    <g transform="translate(64, 362)">
+      <text x="0" y="16" class="mono" font-size="12" fill="#64748b" letter-spacing="1.5">// CORE STACK</text>
+      <rect x="105" y="0" width="80" height="26" rx="6" fill="#131e36" stroke="#223254" stroke-width="1"/>
+      <text x="145" y="17" text-anchor="middle" class="mono" font-size="11.5" fill="#38bdf8">Next.js</text>
+
+      <rect x="193" y="0" width="76" height="26" rx="6" fill="#131e36" stroke="#223254" stroke-width="1"/>
+      <text x="231" y="17" text-anchor="middle" class="mono" font-size="11.5" fill="#38bdf8">FastAPI</text>
+
+      <rect x="277" y="0" width="90" height="26" rx="6" fill="#131e36" stroke="#223254" stroke-width="1"/>
+      <text x="322" y="17" text-anchor="middle" class="mono" font-size="11.5" fill="#38bdf8">ChromaDB</text>
+
+      <rect x="375" y="0" width="95" height="26" rx="6" fill="#131e36" stroke="#223254" stroke-width="1"/>
+      <text x="422" y="17" text-anchor="middle" class="mono" font-size="11.5" fill="#34d399">Gemini ADK</text>
+
+      <rect x="478" y="0" width="80" height="26" rx="6" fill="#131e36" stroke="#223254" stroke-width="1"/>
+      <text x="518" y="17" text-anchor="middle" class="mono" font-size="11.5" fill="#a78bfa">MongoDB</text>
+    </g>
+
+    <!-- Right Side: Futuristic Glass Code Terminal -->
+    <g class="floating-term" transform="translate(680, 52)">
+      <!-- Outer Card with Gradient Border -->
+      <rect x="0" y="0" width="456" height="316" rx="16" fill="#0b101d" fill-opacity="0.94" stroke="url(#card-border)" stroke-width="1.5"/>
+
+      <!-- Window Header Bar -->
+      <path d="M 0 16 C 0 7.16 7.16 0 16 0 L 440 0 C 448.84 0 456 7.16 456 16 L 456 38 L 0 38 Z" fill="url(#term-header)"/>
+      <line x1="0" y1="38" x2="456" y2="38" stroke="#1f2c4a" stroke-width="1"/>
+
+      <!-- Mac Window Dots -->
+      <circle cx="22" cy="19" r="6" fill="#ef4444"/>
+      <circle cx="42" cy="19" r="6" fill="#f59e0b"/>
+      <circle cx="62" cy="19" r="6" fill="#10b981"/>
+
+      <!-- Tab Title -->
+      <text x="228" y="23" text-anchor="middle" class="mono" font-size="12" fill="#94a3b8">raghav@developer: ~/profile.ts</text>
+
+      <!-- Terminal Code Snippet with Rich Syntax Highlighting -->
+      <g transform="translate(26, 64)" class="mono" font-size="13.5">
+        <text y="0" fill="#818cf8">interface <tspan fill="#38bdf8">Engineer</tspan> <tspan fill="#cbd5e1">{</tspan></text>
+        <text y="24" fill="#64748b">  // Production Architect &amp; Builder</text>
+        
+        <text y="48" fill="#e2e8f0">  name<tspan fill="#818cf8">:</tspan> <tspan fill="#34d399">"Raghav Kakrania"</tspan><tspan fill="#94a3b8">;</tspan></text>
+        <text y="72" fill="#e2e8f0">  role<tspan fill="#818cf8">:</tspan> <tspan fill="#34d399">"Full-Stack &amp; AI Systems"</tspan><tspan fill="#94a3b8">;</tspan></text>
+        <text y="96" fill="#e2e8f0">  stack<tspan fill="#818cf8">:</tspan> <tspan fill="#cbd5e1">[</tspan><tspan fill="#38bdf8">"Next14"</tspan><tspan fill="#94a3b8">, </tspan><tspan fill="#38bdf8">"React"</tspan><tspan fill="#94a3b8">, </tspan><tspan fill="#38bdf8">"FastAPI"</tspan><tspan fill="#cbd5e1">]</tspan><tspan fill="#94a3b8">;</tspan></text>
+        <text y="120" fill="#e2e8f0">  ai<tspan fill="#818cf8">:</tspan> <tspan fill="#cbd5e1">[</tspan><tspan fill="#34d399">"RAG Engine"</tspan><tspan fill="#94a3b8">, </tspan><tspan fill="#34d399">"Gemini ADK"</tspan><tspan fill="#cbd5e1">]</tspan><tspan fill="#94a3b8">;</tspan></text>
+        <text y="144" fill="#e2e8f0">  cloud<tspan fill="#818cf8">:</tspan> <tspan fill="#34d399">"Google Cloud (9x Badges)"</tspan><tspan fill="#94a3b8">;</tspan></text>
+        <text y="168" fill="#e2e8f0">  openToWork<tspan fill="#818cf8">:</tspan> <tspan fill="#f59e0b">true</tspan><tspan fill="#94a3b8">;</tspan></text>
+        <text y="192" fill="#cbd5e1">}</text>
+
+        <!-- Command Exec line -->
+        <g transform="translate(0, 222)">
+          <rect x="-4" y="-14" width="410" height="26" rx="6" fill="#131b2e" stroke="#23314f" stroke-width="1"/>
+          <text x="8" y="3" fill="#34d399">$ <tspan fill="#e2e8f0">raghav.deploy()</tspan> <tspan fill="#64748b">→ status: </tspan><tspan fill="#38bdf8">200 OK</tspan> <tspan fill="#10b981">✓</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+
+  <!-- Border Frame -->
+  <rect x="0.5" y="0.5" width="1199" height="419" rx="24" fill="none" stroke="#1f2c4a" stroke-width="1"/>
 </svg>

@@ -1,3 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="168" height="46" viewBox="0 0 168 46" role="img" aria-label="LeetCode"><defs><linearGradient id="g2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#818cf8"/><stop offset="1" stop-color="#22d3ee"/></linearGradient></defs>
-<rect x=".5" y=".5" width="167" height="45" rx="23" fill="#0d1220" stroke="#262f48"/>
-<text x="84" y="29" text-anchor="middle" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#e6e9f2">LeetCode</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="155" height="44" viewBox="0 0 155 44" role="img" aria-label="LeetCode">
+  <defs></defs>
+  <style>
+    .btn-text { font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13.5px; font-weight: 600; }
+  </style>
+  <rect x="0.6" y="0.6" width="153.8" height="42.8" rx="22" fill="#0e1526" stroke="#223254" stroke-width="1.2"/>
+  <g transform="translate(18, 13)">
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="#fb923c">
+  <path d="M16.102 17.93l-2.697 2.607c-.466.467-1.111.662-1.823.662s-1.357-.195-1.824-.662l-4.332-4.363c-.467-.467-.702-1.15-.702-1.863s.235-1.357.702-1.824l4.319-4.38c.467-.467 1.125-.645 1.837-.645s1.357.195 1.823.662l2.697 2.606c.514.515 1.365.497 1.9-.038.535-.536.553-1.387.039-1.901l-2.609-2.636a5.21 5.21 0 0 0-3.85-1.442c-1.472 0-2.853.585-3.85 1.583L3.417 12.86c-.997.998-1.583 2.379-1.583 3.851 0 1.472.586 2.853 1.583 3.851l4.319 4.38c.997.997 2.378 1.583 3.85 1.583s2.853-.586 3.85-1.583l2.609-2.636c.514-.514.496-1.365-.039-1.901-.535-.535-1.386-.553-1.9.038z"/>
+  <path d="M10.8 12.8h11.4c.7 0 1.2-.5 1.2-1.2s-.5-1.2-1.2-1.2H10.8c-.7 0-1.2.5-1.2 1.2s.5 1.2 1.2 1.2z"/>
+</svg>
+  </g>
+  <text x="85" y="27" text-anchor="middle" class="btn-text" fill="#f1f5f9">LeetCode</text>
+</svg>
